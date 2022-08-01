@@ -1,0 +1,15 @@
+---
+default:
+  marker_color: white
+  icon_color: black 
+  icon: fa city
+kanto:
+  gen: 1
+  marker_color: red
+  icon_color: white
+  icon: fa palette
+johto:
+  gen: 2
+  marker_color: orange
+  icon_color: black
+  icon: fa star
