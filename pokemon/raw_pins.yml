@@ -13,3 +13,9 @@ johto:
   marker_color: orange
   icon_color: black
   icon: fa star
+hoenn:
+  gen: 3
+  marker_color: green
+  icon_color: white
+  icon: fa tint
+
