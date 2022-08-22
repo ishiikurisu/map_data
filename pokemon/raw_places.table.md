@@ -56,3 +56,27 @@
 | 26.2118 | 127.6778 | Ever Grande City | Naha, Okinawa, Japan | 3 |
 | 25.00907 | 125.28892 | Mirage Island | Yabiji | 3 |
 | 31.75328 | 129.78424 | Pacifidlog Town | Koshikijima | 3 |
+| 42.3488 | 141.0251 | Twinleaf Town | Noboribetsu, Hokkaido, Japan | 4 |
+| 42.6018 | 140.8522 | Lake Verity | Lake Toya | 4 |
+| 42.6392 | 141.5960 | Sandgem Town | Sobetsu, Hokkaido, Japan | 4 |
+| 43.0669 | 141.3511 | Jubilife City | Sapporo, Hokkaido, Japan | 4 |
+| 43.05637 | 141.97451 | Oreburgh City | Yubari, Hokkaido, Japan | 4 |
+| 43.22225 |141.51439 | Floaroma Town | Tobetsu, Hokkaido, Japan | 4 |
+| 44.3062 | 141.6533 | Valley Windworks | Tomamae, Hokkaido, Japan | 4 |
+| 43.7630 | 142.3581 | Eterna City | Asahikawa, Hokkaido, Japan | 4 |
+| 43.66350 | 142.85411 | Mount Coronet | Asahi-dake | 4 |
+| 42.9271 | 143.1649 | Hearthome City | Obihiro, Hokkaido, Japan | 4 |
+| 43.2400 | 143.5500 | Solaceon Town | Ashoro, Hokkaido, Japan | 4 |
+| 44.0159 | 144.2712 | Veilstone City | Abashiri, Hokkaido, Japan | 4 |
+| 44.1497 | 143.5688 | Celestic Town | Yubetsu, Hokkaido, Japan | 4 |
+| 43.6290 | 144.3013 | Lake Valor | Lake Kussharo | 4 |
+| 42.9908 | 144.3817 | Pastoria City | Kushiro, Hokkaido, Japan | 4 |
+| 43.0999 | 144.4469 | Great Marsh | Kushiro Wetland | 4 |
+| 43.1873 | 141.0039 | Canalave City | Otaru, Hokkaido, Japan | 4 |
+| 45.4145 | 141.6763 | Snowpoint City | Wakkanai, Hokkaido, Japan | 4 |
+| 45.1345 | 142.3245 | Lake Acuity | Lake Kutcharo | 4 |
+| 43.3266 | 145.5814 | Sunyshore City | Nemuro, Hokkaido, Japan | 4 |
+| 43.97917 | 145.73252 | Sinnoh Pokémon League | Mendeleyeva | 4 |
+| 47.00539 | 142.84030 | Stark Mountain | Pik Chekhova | 4 |
+| 46.3646 | 143.3672 | Resort Area | Novikovo, Korakovsky, Russia | 4 |
+
