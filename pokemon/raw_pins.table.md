@@ -5,3 +5,4 @@
 | orange | black | fa star | 2 | johto |
 | green | white | fa tint | 3 | hoenn |
 | white | black | fa gem | 4 | sinnoh |
+| black | white | fa palette | 5 | unova |
