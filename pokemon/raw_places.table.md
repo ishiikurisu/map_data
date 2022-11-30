@@ -79,4 +79,24 @@
 | 43.97917 | 145.73252 | Sinnoh Pokémon League | Mendeleyeva | 4 |
 | 47.00539 | 142.84030 | Stark Mountain | Pik Chekhova | 4 |
 | 46.3646 | 143.3672 | Resort Area | Novikovo, Korakovsky, Russia | 4 |
-
+| 40.5768 | -74.0009 | Nuvema Town | Coney Island, New York, USA | 5 |
+| 40.60570 | -73.93495 | Accumula Town | Marine Park, Brooklyn, New York, USA | 5 |
+| 40.64354 | -73.90008 | Striaton City | Brooklyn, New York, USA | 5 |
+| 40.68568 | -73.98763 | Nacrene City | Brooklyn, New York, USA | 5 |
+| 40.69791 | -73.99060 | Pinwheel Forest | Brooklyn, New York, USA | 5 |
+| 40.70405 | -74.01172 | Castelia City | Manhattan, New York, USA | 5 |
+| 40.75681 | -73.98628 | Nimbasa City | Manhattan, New York, USA | 5 |
+| 40.7384 | -74.0576 | Driftveil City | Hudson County, New Jersey, USA | 5 |
+| 40.9720 | -74.0589 | Mistralton City | Bergen County, New Jersey, USA | 5 |
+| 40.8335 | -74.0070 | Icirrus City | Ridgefield, New Jersey, USA | 5 |
+| 40.8109 | -73.9520 | Opelucid City | Manhattan, New York, USA | 5 |
+| 40.86373 | -73.69996 | Unova Pokémon League | Nassau County, Long Island, USA | 5 |
+| 40.76512 | -73.82070 | Lacunosa Town | Queens, New York, USA | 5 |
+| 40.70160 | -73.80600 | Undella Town | Queens, New York, USA | 5 |
+| 40.74334 | -73.95232 | Black City | Long Island City, New York, USA | 5 |
+| 40.75492 | -73.94443 | White Forest | Queens, New York, USA | 5 |
+| 40.79700 | -74.48085 | Anville Town | Morristown, New Jersey, USA | 5 |
+| 40.6666 | -74.2131 | Aspertia City | Elizabeth, New Jersey, USA | 5 |
+| 40.7170 | -74.0430 | Virbank City | Jersey City, New Jersey, USA | 5 |
+| 40.71981 | -73.84488 | Lentimas Town | Queens, New York, USA | 5 |
+| 40.6476 | -73.1434 | Humilau City | Fire Island, Long Island, USA | 5 |
