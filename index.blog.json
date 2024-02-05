@@ -6,5 +6,12 @@
     "lat": 40.51,
     "lon": -94.66,
     "zoom": 4
+  }, {
+    "path": "pokemon",
+    "title": "Pokémon",
+    "description": "Pokémon places in relation to the real world",
+    "lat": 36.448,
+    "lon": 139.713,
+    "zoom": 7
   }
 ]
