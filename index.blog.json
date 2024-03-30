@@ -13,5 +13,12 @@
     "lat": 36.448,
     "lon": 139.713,
     "zoom": 7
+  }, {
+    "path": "eurasian_road_trip",
+    "title": "Eurasian Road Trip",
+    "description": "Idea for a long road trip from Ireland to Japan",
+    "lat": 47.04,
+    "lon": 64.86,
+    "zoom": 3
   }
 ]

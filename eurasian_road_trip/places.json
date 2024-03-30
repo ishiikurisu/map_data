@@ -1,0 +1,168 @@
+[
+    {
+        "lat": 53.3577,
+        "lon": -6.3288,
+        "popup": "0. Dublin, Ireland",
+        "status": "not visited"
+    }, {
+        "lat": 51.5058,
+        "lon": -0.1699,
+        "popup": "1. London, England<br/>Through ferry by Holyhead, Wales",
+        "status": "not visited"
+    }, {
+        "lat": 48.8297,
+        "lon": 2.4330,
+        "popup": "2. Paris, France<br/>Through the Channel Tunnel",
+        "status": "not visited"
+    }, {
+        "lat": 45.7651,
+        "lon": 4.8221,
+        "popup": "3. Lyon, France",
+        "status": "not visited"
+    }, {
+        "lat": 45.4740,
+        "lon": 9.1983,
+        "popup": "4. Milan, Italy",
+        "status": "not visited"
+    }, {
+        "lat": 41.8849,
+        "lon": 12.4492,
+        "popup": "5. Rome, Italy",
+        "status": "not visited"
+    }, {
+        "lat": 41.1352,
+        "lon": 16.8402,
+        "popup": "6. Bari, Italy",
+        "status": "not visited"
+    }, {
+        "lat": 39.4990,
+        "lon": 20.2680,
+        "popup": "7. Igoumenitsa, Greece<br/>10h by overnight ferry",
+        "status": "not visited"
+    }, {
+        "lat": 40.8564,
+        "lon": 25.8816,
+        "popup": "8. Alexandroupolis, Greece",
+        "status": "not visited"
+    }, {
+        "lat": 39.9250,
+        "lon": 32.7832,
+        "popup": "9. Ankara, Turkey",
+        "status": "not visited"
+    }, {
+        "lat": 37.0823,
+        "lon": 37.403,
+        "popup": "10. Gaziantep, Turkey",
+        "status": "not visited"
+    }, {
+        "lat": 37.5564,
+        "lon": 44.2455,
+        "popup": "11. Yüksekova, Turkey<br/>There is a city called 'Batman' in the way, don't miss it!",
+        "status": "not visited"
+    }, {
+        "lat": 35.6757,
+        "lon": 51.4212,
+        "popup": "12. Teeran, Iran",
+        "status": "not visited"
+    }, {
+        "lat": 31.9504,
+        "lon": 54.3270,
+        "popup": "13. Yazd, Iran",
+        "status": "not visited"
+    }, {
+        "lat": 30.2721494,
+        "lon": 56.9855933,
+        "popup": "14. Kerman, Iran",
+        "status": "not visited"
+    }, {
+        "lat": 27.2077,
+        "lon": 60.7031,
+        "popup": "15. Iranshahr, Iran",
+        "status": "not visited"
+    }, {
+        "lat": 25.2123,
+        "lon": 64.6368,
+        "popup": "16. Ormara, Pakistan",
+        "status": "not visited"
+    }, {
+        "lat": 25.3839,
+        "lon": 68.3415,
+        "popup": "17. Hyderabad, Pakistan<br/>I don't know how to get to Beijing, China from here lol",
+        "status": "not visited"
+    }, {
+        "lat": 30.1990,
+        "lon": 71.4746,
+        "popup": "18. ???",
+        "status": "not visited"
+    }, {
+        "lat": 33.6889,
+        "lon": 73.0869,
+        "popup": "19. ???",
+        "status": "not visited"
+    }, {
+        "lat": 35.9178,
+        "lon": 74.3521,
+        "popup": "20. ???",
+        "status": "not visited"
+    }, {
+        "lat": 37.1165,
+        "lon": 79.9151,
+        "popup": "21. ???",
+        "status": "not visited"
+    }, {
+        "lat": 39.0261,
+        "lon": 88.1768,
+        "popup": "22. ???",
+        "status": "not visited"
+    }, {
+        "lat": 39.6233,
+        "lon": 94.3297,
+        "popup": "23. ???",
+        "status": "not visited"
+    }, {
+        "lat": 36.6293,
+        "lon": 101.7664,
+        "popup": "24. ???",
+        "status": "not visited"
+    }, {
+        "lat": 38.4942,
+        "lon": 106.2776,
+        "popup": "25. ???",
+        "status": "not visited"
+    }, {
+        "lat": 39.9012,
+        "lon": 116.3915,
+        "popup": "26. Beijing, China",
+        "status": "not visited"
+    }, {
+        "lat": 38.9380,
+        "lon": 121.5829,
+        "popup": "27. Dalian, China",
+        "status": "not visited"
+    }, {
+        "lat": 37.4274,
+        "lon": 126.7474,
+        "popup": "28. Incheon, South Korea<br/>12h by overnight ferry",
+        "status": "not visited"
+    }, {
+        "lat": 35.1815,
+        "lon": 129.0718,
+        "popup": "29. Busan, South Korea",
+        "status": "not visited"
+    }, {
+        "lat": 33.6014,
+        "lon": 130.4194,
+        "popup": "30. Fukuoka, Japan<br/>6h by ferry",
+        "status": "not visited"
+    }, {
+        "lat": 34.7262,
+        "lon": 135.4246,
+        "popup": "31. Osaka, Japan",
+        "status": "not visited"
+    }, {
+        "lat": 35.67292,
+        "lon": 139.77082,
+        "popup": "32. Tokyo, Japan",
+        "status": "not visited"
+    }
+]
