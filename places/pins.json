@@ -1,0 +1,26 @@
+{
+    "home": {
+        "icon": "home",
+        "markerColor": "orange",
+        "iconColor": "white",
+        "prefix": "fa"
+    },
+    "old_home": {
+        "icon": "home",
+        "markerColor": "blue",
+        "iconColor": "white",
+        "prefix": "fa"
+    },
+    "visited": {
+        "icon": "calendar-check",
+        "markerColor": "green",
+        "iconColor": "white",
+        "prefix": "fa"
+    },
+    "not visited": {
+        "icon": "calendar",
+        "markerColor": "red",
+        "iconColor": "white",
+        "prefix": "fa"
+    }
+}

@@ -1,5 +1,13 @@
 [
   {
+    "path": "places",
+    "title": "Places",
+    "description": "Places that I have been to",
+    "lat": 0,
+    "lon": 0,
+    "zoom": 3
+  },
+  {
     "path": "sleep_on_the_floor",
     "title": "Sleep on the floor",
     "description": "Cities visited on 'Sleep on the floor' movie",
