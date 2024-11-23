@@ -1,32 +1,37 @@
-[
-  {
-    "path": "places",
-    "title": "Places",
-    "description": "Places that I have been to",
-    "lat": 0,
-    "lon": 0,
-    "zoom": 3
-  },
-  {
-    "path": "sleep_on_the_floor",
-    "title": "Sleep on the floor",
-    "description": "Cities visited on 'Sleep on the floor' movie",
-    "lat": 40.51,
-    "lon": -94.66,
-    "zoom": 4
-  }, {
-    "path": "pokemon",
-    "title": "Pokémon",
-    "description": "Pokémon places in relation to the real world",
-    "lat": 36.448,
-    "lon": 139.713,
-    "zoom": 7
-  }, {
-    "path": "eurasian_road_trip",
-    "title": "Eurasian Road Trip",
-    "description": "Idea for a long road trip from Ireland to Japan",
-    "lat": 47.04,
-    "lon": 64.86,
-    "zoom": 3
-  }
-]
+[ {
+  "path" : "places",
+  "title" : "Places",
+  "description" : "Places that I have been to",
+  "lat" : 0,
+  "lon" : 0,
+  "zoom" : 3,
+  "creation_date" : "2024-10-22T21:12:07.000Z",
+  "last_updated_date" : "2024-11-23T14:56:39.000Z"
+}, {
+  "path" : "sleep_on_the_floor",
+  "title" : "Sleep on the floor",
+  "description" : "Cities visited on 'Sleep on the floor' movie",
+  "lat" : 40.51,
+  "lon" : -94.66,
+  "zoom" : 4,
+  "creation_date" : "2022-07-16T08:07:50.000Z",
+  "last_updated_date" : "2024-11-23T14:56:39.000Z"
+}, {
+  "path" : "pokemon",
+  "title" : "Pokémon",
+  "description" : "Pokémon places in relation to the real world",
+  "lat" : 36.448,
+  "lon" : 139.713,
+  "zoom" : 7,
+  "creation_date" : "2022-07-29T16:37:43.000Z",
+  "last_updated_date" : "2024-11-23T14:56:39.000Z"
+}, {
+  "path" : "eurasian_road_trip",
+  "title" : "Eurasian Road Trip",
+  "description" : "Idea for a long road trip from Ireland to Japan",
+  "lat" : 47.04,
+  "lon" : 64.86,
+  "zoom" : 3,
+  "creation_date" : "2024-03-30T10:47:47.000Z",
+  "last_updated_date" : "2024-11-23T14:56:39.000Z"
+} ]
