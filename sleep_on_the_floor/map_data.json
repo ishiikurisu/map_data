@@ -1,34 +1,44 @@
 {
-  "places" : [ {
-    "lat" : 34.0117,
-    "lon" : -118.195,
-    "popup" : "1. Los Angeles",
-    "status" : "not visited"
-  }, {
-    "lat" : 36.1721,
-    "lon" : -115.1592,
-    "popup" : "2. Las Vegas",
-    "status" : "not visited"
-  }, {
-    "lat" : 35.2129,
-    "lon" : -106.7109,
-    "popup" : "3. Albuquerque",
-    "status" : "not visited"
-  }, {
-    "lat" : 39.7393,
-    "lon" : -104.9116,
-    "popup" : "4. Denver",
-    "status" : "not visited"
-  }, {
-    "lat" : 36.2299,
-    "lon" : -84.5813,
-    "popup" : "5. ???",
-    "status" : "not visited"
-  }, {
-    "lat" : 40.75127,
-    "lon" : -73.98482,
-    "popup" : "X. New York City",
-    "status" : "not visited"
-  } ],
-  "pins" : null
+  "places": [
+    {
+      "lat": 34.0117,
+      "lon": -118.195,
+      "popup": "1. Los Angeles",
+      "status": "not visited"
+    },
+    {
+      "lat": 36.1721,
+      "lon": -115.1592,
+      "popup": "2. Las Vegas",
+      "status": "not visited"
+    },
+    {
+      "lat": 35.2129,
+      "lon": -106.7109,
+      "popup": "3. Albuquerque",
+      "status": "not visited"
+    },
+    {
+      "lat": 39.7393,
+      "lon": -104.9116,
+      "popup": "4. Denver",
+      "status": "not visited"
+    },
+    {
+      "lat": 36.2299,
+      "lon": -84.5813,
+      "popup": "5. ???",
+      "status": "not visited"
+    },
+    {
+      "lat": 40.75127,
+      "lon": -73.98482,
+      "popup": "X. New York City",
+      "status": "not visited"
+    }
+  ],
+  "pins": null,
+  "lat": 40.51,
+  "lon": -94.66,
+  "zoom": 4
 }
