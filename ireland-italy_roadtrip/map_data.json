@@ -1,0 +1,92 @@
+{
+	"lat": 47.04,
+	"lon": 64.86,
+	"zoom": 3,
+	"pins": null,
+	"places": [
+		{
+			"lat": 53.3577,
+			"lon": -6.3288,
+			"popup": "0. Dublin, Ireland",
+			"status": "not visited"
+		},
+		{
+			"lat": 49.63712,
+			"lon": -1.61520,
+			"popup": "1. Cherbourg, France",
+			"status": "not visited"
+		},
+		{
+			"lat": 48.858260,
+			"lon": 2.294030,
+			"popup": "2. Paris, France",
+			"status": "not visited"
+		},
+		{
+			"lat": 47.321392,
+			"lon": 5.041386,
+			"popup": "3. Dijon, France",
+			"status": "not visited"
+		},
+		{
+			"lat": 46.20317,
+			"lon": 6.14142,
+			"popup": "4. Genevè, Suisse",
+			"status": "not visited"
+		},
+		{
+			"lat": 46.794282,
+			"lon": 9.822861,
+			"popup": "5. Davos, Schweiz",
+			"status": "not visited"
+		},
+		{
+			"lat": 46.00394,
+			"lon": 8.95120,
+			"popup": "6. Lugano, Svizzera",
+			"status": "not visited"
+		},
+		{
+			"lat": 44.407157,
+			"lon": 8.933988,
+			"popup": "7. Genoa, Italia",
+			"status": "not visited"
+		},
+		{
+			"lat": 43.734532,
+			"lon": 7.421973,
+			"popup": "8. Monaco",
+			"status": "not visited"
+		},
+		{
+			"lat": 43.6135,
+			"lon": 3.8844,
+			"popup": "9. Montpellier, France",
+			"status": "not visited"
+		},
+		{
+			"lat": 43.60341,
+			"lon": 1.44436,
+			"popup": "10. Toulouse, France",
+			"status": "not visited"
+		},
+		{
+			"lat": 44.839564,
+			"lon": -0.572587,
+			"popup": "11. Bordeaux, France",
+			"status": "not visited"
+		},
+		{
+			"lat": 47.20489,
+			"lon": -1.54088,
+			"popup": "12. Nantes, France",
+			"status": "not visited"
+		},
+		{
+			"lat": 49.648490,
+			"lon": -1.612855,
+			"popup": "13. Cherbourg, France",
+			"status": "not visited"
+		}
+	]
+}
