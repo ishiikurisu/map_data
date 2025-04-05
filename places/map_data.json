@@ -401,6 +401,12 @@
       "lon": -9.4305921,
       "popup": "Cliffs of Moher, Ireland (2024\u5e749\u670828\u65e5)",
       "status": "visited"
+    },
+    {
+      "lat": 42.42521,
+      "lon": 18.77090,
+      "popup": "Котор, Црна Гора",
+      "status": "not visited"
     }
   ],
   "pins": {
