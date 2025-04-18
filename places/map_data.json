@@ -407,6 +407,24 @@
       "lon": 18.77090,
       "popup": "Котор, Црна Гора",
       "status": "not visited"
+    },
+    {
+      "lat": 39.04919,
+      "lon": 125.77518,
+      "popup": "평양, 조선",
+      "status": "not visited"
+    },
+    {
+      "lat": 25.031095,
+      "lon": 121.535552,
+      "popup": "臺北, 臺灣",
+      "status": "not visited"
+    },
+    {
+      "lat": 22.298393,
+      "lon": 114.170417,
+      "popup": "香港",
+      "status": "not visited"
     }
   ],
   "pins": {
