@@ -425,6 +425,18 @@
       "lon": 114.170417,
       "popup": "香港",
       "status": "not visited"
+    },
+    {
+      "lat": 51.604148,
+      "lon": -0.066285,
+      "popup": "21/04/2025",
+      "status": "visited"
+    },
+    {
+      "lat": 41.902235,
+      "lon": 12.457264,
+      "popup": "Civitas Vaticana, 27/04/2025",
+      "status": "visited"
     }
   ],
   "pins": {
