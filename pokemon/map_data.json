@@ -599,6 +599,114 @@
       "lon": "-73.1434",
       "popup": "Humilau City",
       "status": "unova"
+    },
+    {
+      "lat": 46.56678,
+      "lon": 3.33192,
+      "popup": "Vaniville Town",
+      "status": "kalos"
+    },
+    {
+      "lat": 46.99032,
+      "lon": 3.15516,
+      "popup": "Aquacorde Town",
+      "status": "kalos"
+    },
+    {
+      "lat": 48.40129,
+      "lon": 2.70395,
+      "popup": "Santalune City",
+      "status": "kalos"
+    },
+    {
+      "lat": 48.85825,
+      "lon": 2.29448,
+      "popup": "Lumiose City",
+      "status": "kalos"
+    },
+    {
+      "lat": 47.585514,
+      "lon": 1.327634,
+      "popup": "Camphrier Town",
+      "status": "kalos"
+    },
+    {
+      "lat": 48.80477,
+      "lon": 2.12046,
+      "popup": "Parfum Palace",
+      "status": "kalos"
+    },
+    {
+      "lat": 46.15721,
+      "lon": -1.15922,
+      "popup": "Ambrette Town",
+      "status": "kalos"
+    },
+    {
+      "lat": 47.27227,
+      "lon": -2.22377,
+      "popup": "Cyllage City",
+      "status": "kalos"
+    },
+    {
+      "lat": 47.58337,
+      "lon": -3.07886,
+      "popup": "Geosenge Town",
+      "status": "kalos"
+    },
+    {
+      "lat": 48.65137,
+      "lon": -2.03043,
+      "popup": "Shalour City",
+      "status": "kalos"
+    },
+    {
+      "lat": 49.492821,
+      "lon": 0.107809,
+      "popup": "Coumarine City",
+      "status": "kalos"
+    },
+    {
+      "lat": 49.899168,
+      "lon": 2.273499,
+      "popup": "Laverre City",
+      "status": "kalos"
+    },
+    {
+      "lat": 49.158846,
+      "lon": 4.146623,
+      "popup": "Dendemille Town",
+      "status": "kalos"
+    },
+    {
+      "lat": 48.58182,
+      "lon": 7.75099,
+      "popup": "Anistar City",
+      "status": "kalos"
+    },
+    {
+      "lat": 48.120998,
+      "lon": 6.678899,
+      "popup": "Couriway Town",
+      "status": "kalos"
+    },
+    {
+      "lat": 47.233710,
+      "lon": 6.030255,
+      "popup": "Snowbelle City",
+      "status": "kalos"
+    },
+    {
+      "lat": 45.757703,
+      "lon": 4.832284,
+      "popup": "Kiloude City",
+      "status": "kalos"
+    },
+    {
+      "lat": 47.3214745,
+      "lon": 5.0346167,
+      "popup": "Kalos Pokémon League",
+      "status": "kalos"
     }
   ],
   "pins": {
@@ -635,6 +743,12 @@
     "unova": {
       "icon": "palette",
       "markerColor": "black",
+      "iconColor": "white",
+      "prefix": "fa"
+    },
+    "kalos": {
+      "icon": "times",
+      "markerColor": "pink",
       "iconColor": "white",
       "prefix": "fa"
     }
