@@ -1,0 +1,233 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3288,
+          53.3577
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "0. Dublin, Ireland",
+        "pin": "not visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6152,
+          49.63712
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "1. Cherbourg, France",
+        "pin": "not visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.29403,
+          48.85826
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "2. Paris, France",
+        "pin": "not visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.041386,
+          47.321392
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "3. Dijon, France",
+        "pin": "not visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.14142,
+          46.20317
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "4. Genevè, Suisse",
+        "pin": "not visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.822861,
+          46.794282
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "5. Davos, Schweiz",
+        "pin": "not visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9512,
+          46.00394
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "6. Lugano, Svizzera",
+        "pin": "not visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.933988,
+          44.407157
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "7. Genoa, Italia",
+        "pin": "not visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.421973,
+          43.734532
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "8. Monaco",
+        "pin": "not visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.8844,
+          43.6135
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "9. Montpellier, France",
+        "pin": "not visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.44436,
+          43.60341
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "10. Toulouse, France",
+        "pin": "not visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.572587,
+          44.839564
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "11. Bordeaux, France",
+        "pin": "not visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.54088,
+          47.20489
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "12. Nantes, France",
+        "pin": "not visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.612855,
+          49.64849
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "13. Cherbourg, France",
+        "pin": "not visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.07,
+          49.59
+        ]
+      },
+      "properties": {
+        "center": true,
+        "zoom": 6
+      }
+    }
+  ],
+  "metadata": {
+    "pins": {
+    }
+  }
+}

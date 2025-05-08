@@ -1,0 +1,518 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.3288,
+          53.3577
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "0. Dublin, Ireland<br/><a href=\"http://www.crisjr.eng.br/notes/note.html?which=eurasian_road_trip.md\">More info here</a>",
+        "pin": "not visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1699,
+          51.5058
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "1. London, England<br/>Through ferry by Holyhead, Wales",
+        "pin": "not visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.433,
+          48.8297
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "2. Paris, France<br/>Through the Channel Tunnel",
+        "pin": "not visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8221,
+          45.7651
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "3. Lyon, France",
+        "pin": "not visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1983,
+          45.474
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "4. Milan, Italy",
+        "pin": "not visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4492,
+          41.8849
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "5. Rome, Italy",
+        "pin": "not visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8402,
+          41.1352
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "6. Bari, Italy",
+        "pin": "not visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.268,
+          39.499
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "7. Igoumenitsa, Greece<br/>10h by overnight ferry",
+        "pin": "not visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.8816,
+          40.8564
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "8. Alexandroupolis, Greece",
+        "pin": "not visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.7832,
+          39.925
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "9. Ankara, Turkey",
+        "pin": "not visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.403,
+          37.0823
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "10. Gaziantep, Turkey",
+        "pin": "not visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.2455,
+          37.5564
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "11. Yüksekova, Turkey<br/>There is a city called 'Batman' in the way, don't miss it!",
+        "pin": "not visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.4212,
+          35.6757
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "12. Teeran, Iran",
+        "pin": "not visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.327,
+          31.9504
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "13. Yazd, Iran",
+        "pin": "not visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.9855933,
+          30.2721494
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "14. Kerman, Iran",
+        "pin": "not visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.7031,
+          27.2077
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "15. Iranshahr, Iran",
+        "pin": "not visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.6368,
+          25.2123
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "16. Ormara, Pakistan",
+        "pin": "not visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.3415,
+          25.3839
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "17. Hyderabad, Pakistan<br/>I don't know how to get to Beijing, China from here lol",
+        "pin": "not visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.4746,
+          30.199
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "18. ???",
+        "pin": "not visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0869,
+          33.6889
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "19. ???",
+        "pin": "not visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3521,
+          35.9178
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "20. ???",
+        "pin": "not visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.9151,
+          37.1165
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "21. ???",
+        "pin": "not visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.1768,
+          39.0261
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "22. ???",
+        "pin": "not visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.3297,
+          39.6233
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "23. ???",
+        "pin": "not visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7664,
+          36.6293
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "24. ???",
+        "pin": "not visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.2776,
+          38.4942
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "25. ???",
+        "pin": "not visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.3915,
+          39.9012
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "26. Beijing, China",
+        "pin": "not visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5829,
+          38.938
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "27. Dalian, China",
+        "pin": "not visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.7474,
+          37.4274
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "28. Incheon, South Korea<br/>12h by overnight ferry",
+        "pin": "not visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.0718,
+          35.1815
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "29. Busan, South Korea",
+        "pin": "not visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.4194,
+          33.6014
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "30. Fukuoka, Japan<br/>6h by ferry",
+        "pin": "not visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.4246,
+          34.7262
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "31. Osaka, Japan",
+        "pin": "not visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.77082,
+          35.67292
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "32. Tokyo, Japan",
+        "pin": "not visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.86,
+          47.04
+        ]
+      },
+      "properties": {
+        "center": true,
+        "zoom": 3
+      }
+    }
+  ],
+  "metadata": {
+    "pins": {
+    }
+  }
+}

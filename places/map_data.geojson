@@ -1,0 +1,1142 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.4331,
+          -27.6032
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Florianópolis, Santa Catarina",
+        "pin": "old_home"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.8513,
+          -15.7468
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Brasília, Distrito Federal",
+        "pin": "home"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.1677,
+          -10.4424
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Pium, Tocantins",
+        "pin": "old_home"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.6563,
+          -23.563
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Sāo Paulo, Sāo Paulo (2016/02)",
+        "pin": "visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.4319,
+          -25.695
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Foz do Iguaçú, Paraná (2016/10)",
+        "pin": "visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.94311,
+          -19.92296
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Belo Horizonte, Minas Gerais (2017/10)",
+        "pin": "visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.1779,
+          -22.9682
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Rio de Janeiro, Rio de Janeiro (2017/06)",
+        "pin": "visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.5924,
+          -17.7087
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Caldas Novas, Goiás (2018/03)",
+        "pin": "visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.5349,
+          -29.1062
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Bento Gonçalves, Rio Grande do Sul (2015/10)",
+        "pin": "visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.1019828,
+          -12.6367599
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Salvador, Bahia (2013/12)",
+        "pin": "visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.8087,
+          -7.1169
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Joāo Pessoa, Paraíba (2018/12)",
+        "pin": "visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0676,
+          36.7607
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "الجزائر, الجزائر",
+        "pin": "not visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5932,
+          48.1707
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "München, Deutschland",
+        "pin": "not visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.59281,
+          55.68408
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "København, Danmark",
+        "pin": "not visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.1074,
+          59.3247
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Stockholm, Sverige",
+        "pin": "not visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.1906122,
+          -34.903842
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Montevideo, Uruguay",
+        "pin": "not visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.9945,
+          64.1538
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Reykjavík, Ísland",
+        "pin": "not visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.7192,
+          -36.853
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Auckland, New Zealand",
+        "pin": "not visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.8278,
+          -33.8453
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Pink Lake, Australia",
+        "pin": "not visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.26408,
+          42.09107
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Foxboro, USA",
+        "pin": "not visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.0633,
+          30.6626
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "成都, 中国",
+        "pin": "not visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.688,
+          47.582
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "St John, Canada",
+        "pin": "not visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.27614,
+          -25.38457
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Curitiba, Paraná (2019/10)",
+        "pin": "visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.0621,
+          -26.9183
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Blumenau, Santa Catarina",
+        "pin": "not visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.958,
+          37.5262
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "서울, 한국",
+        "pin": "not visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1344,
+          38.7074
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Lisboa, Portugal",
+        "pin": "old_home"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.26282,
+          53.34556
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Dublin, Ireland",
+        "pin": "home"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.4547,
+          34.6776
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "大阪、日本",
+        "pin": "not visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.302,
+          33.6749
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "福岡、日本",
+        "pin": "not visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.45262,
+          34.39318
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "広島、日本",
+        "pin": "not visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.65956,
+          36.56563
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "金沢、日本 (<a href=\"/notes/note.html?which=kanazawa-days.md\">2019/12</a>)",
+        "pin": "old_home"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.6414,
+          28.4868
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "奄美、日本<br/>Antipode to Florianópolis, SC",
+        "pin": "not visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -125.3973,
+          49.5605
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Mount Celeste, Canada",
+        "pin": "not visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -126.1,
+          -77.033333
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Mount Sidley",
+        "pin": "not visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8373,
+          59.4778
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Tallinn, Eesti",
+        "pin": "not visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.6649,
+          -44.9964
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Queenstown, New Zealand",
+        "pin": "not visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.2129,
+          39.849
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "北京, 中国",
+        "pin": "not visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.26819,
+          35.1255
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "天狗岳、日本",
+        "pin": "not visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.89969,
+          52.37827
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Amsterdam, Nederland",
+        "pin": "visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.11139,
+          52.08931
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Utrecht, Nederland",
+        "pin": "visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4379,
+          52.50612
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Berlin, Deutschland",
+        "pin": "visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.54085,
+          47.36706
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Zürich, Schweiz",
+        "pin": "not visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.12676,
+          35.15964
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "부산, 한국",
+        "pin": "not visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.38019,
+          43.65609
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Toronto, Canada",
+        "pin": "not visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0253,
+          14.6121
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Maynila, Pilipinas",
+        "pin": "not visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.26418,
+          47.1487
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Biel, Schweiz",
+        "pin": "not visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.5861,
+          36.4447
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "الموت, ایران‎",
+        "pin": "not visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.77425,
+          62.00882
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Tórshavn, Føroyar",
+        "pin": "not visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.00407,
+          60.47295
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Muumimaailma, Naantali, Suomi",
+        "pin": "not visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.65,
+          78.2211
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Longyearbyen, Svalbard, Norge",
+        "pin": "not visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.24855,
+          40.8358
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Napoli, Italia",
+        "pin": "not visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.9585,
+          -15.84985
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Pirenópolis, Goiás (08/04/2023)",
+        "pin": "visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.67315,
+          39.63102
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Fátima, Portugal (8/5/2022)",
+        "pin": "visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.08407,
+          39.60586
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Nazaré, Portugal (28/5/2022)",
+        "pin": "visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.99331,
+          37.38583
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Sevilla, España (3/7/2022)",
+        "pin": "visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.809,
+          34.69819
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "奈良、日本",
+        "pin": "not visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.8986,
+          36.2709
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "白川、日本 (2019年12月15日)",
+        "pin": "visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6998435,
+          35.6589796
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "東京、日本 (<a href=\"/notes/note.html?which=tokyo-days.md\">2019/12</a>)",
+        "pin": "visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.67657,
+          35.76346
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "板橋、東京、日本",
+        "pin": "old_home"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.67854,
+          35.01213
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "京都、日本 (2023年7月23日)",
+        "pin": "visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.87538,
+          -29.38451
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Gramado, Rio Grande do Sul (2024/03)",
+        "pin": "visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9426,
+          50.3341
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Nürburgring, Nürburg, Deutschland",
+        "pin": "not visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.93541,
+          54.58231
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Belfast, Northern Ireland (2024年5月25日)",
+        "pin": "visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.47249,
+          51.89763
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Cork, Ireland (2024年6月15日)",
+        "pin": "visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6117,
+          43.06964
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Assissi, Italy",
+        "pin": "not visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.17165,
+          51.49681
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "London, England (2024年6月22日)",
+        "pin": "visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.4305921,
+          52.9732382
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Cliffs of Moher, Ireland (2024年9月28日)",
+        "pin": "visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.7709,
+          42.42521
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Котор, Црна Гора",
+        "pin": "not visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.77518,
+          39.04919
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "평양, 조선",
+        "pin": "not visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.535552,
+          25.031095
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "臺北, 臺灣",
+        "pin": "not visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.170417,
+          22.298393
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "香港",
+        "pin": "not visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.066285,
+          51.604148
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "21/04/2025",
+        "pin": "visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.457264,
+          41.902235
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Civitas Vaticana, 27/04/2025",
+        "pin": "visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "properties": {
+        "center": true,
+        "zoom": 3
+      }
+    }
+  ],
+  "metadata": {
+    "pins": {
+      "home": {
+        "icon": "home",
+        "markerColor": "orange",
+        "iconColor": "white",
+        "prefix": "fa"
+      },
+      "old_home": {
+        "icon": "home",
+        "markerColor": "blue",
+        "iconColor": "white",
+        "prefix": "fa"
+      },
+      "visited": {
+        "icon": "calendar-check",
+        "markerColor": "green",
+        "iconColor": "white",
+        "prefix": "fa"
+      },
+      "not visited": {
+        "icon": "calendar",
+        "markerColor": "red",
+        "iconColor": "white",
+        "prefix": "fa"
+      }
+    }
+  }
+}

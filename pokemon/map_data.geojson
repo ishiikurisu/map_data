@@ -1,0 +1,1835 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "139.44535",
+          "35.54402"
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Pallet Town Inspiration",
+        "pin": "kanto"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "138.94332",
+          "34.67455"
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Pallet Town",
+        "pin": "kanto"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "139.043",
+          "35.249"
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Viridian City",
+        "pin": "kanto"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "139.0652",
+          "36.3841"
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Pewter City",
+        "pin": "kanto"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "139.0651",
+          "35.8583"
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Viridian Forest",
+        "pin": "kanto"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "139.1785",
+          "36.5546"
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Mt Moon",
+        "pin": "kanto"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "139.899",
+          "36.5579"
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Cerulean City",
+        "pin": "kanto"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "139.439722",
+          "36.633333"
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Cerulean Cave",
+        "pin": "kanto"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "140.7493",
+          "36.8036"
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Bill's Cottage",
+        "pin": "kanto"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "140.10681",
+          "36.22537"
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Rock Tunnel",
+        "pin": "kanto"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "139.625",
+          "35.4672"
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Vermillion City",
+        "pin": "kanto"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "140.6083",
+          "36.4679"
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Kanto Power Plant",
+        "pin": "kanto"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "140.14122",
+          "35.97531"
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Lavender Town",
+        "pin": "kanto"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "139.6491",
+          "35.643"
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Celadon City",
+        "pin": "kanto"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "139.7",
+          "35.69382"
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Saffron City",
+        "pin": "kanto"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "139.85599",
+          "35.29099"
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Fuchsia City",
+        "pin": "kanto"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "139.9883",
+          "35.1782"
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Kanto Safari Zone",
+        "pin": "kanto"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "139.8337",
+          "35.4913"
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Kanto Cycling Road",
+        "pin": "kanto"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "139.3993",
+          "34.7385"
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Cinnabar Island",
+        "pin": "kanto"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "138.716667",
+          "35.9"
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Indigo Plateau",
+        "pin": "kanto"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "138.73078",
+          "35.3628"
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Mount Silver",
+        "pin": "johto"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "138.4235",
+          "34.9892"
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "New Bark Town",
+        "pin": "johto"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "136.93426",
+          "34.70971"
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Cherrygroove City",
+        "pin": "johto"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.81885",
+          "34.68102"
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Violet City",
+        "pin": "johto"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.32448",
+          "33.76771"
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Azalea Town",
+        "pin": "johto"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.84283",
+          "33.75535"
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Ilex Forest",
+        "pin": "johto"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.5019",
+          "34.733"
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Goldenrod City",
+        "pin": "johto"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.7584",
+          "34.985"
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Ecruteak City",
+        "pin": "johto"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.1957",
+          "34.6943"
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Olivine City",
+        "pin": "johto"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "134.8389",
+          "34.3986"
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Whirl Islands",
+        "pin": "johto"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "134.5787",
+          "34.148"
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Cianwood City",
+        "pin": "johto"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "135.8338",
+          "35.065"
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Mt Mortar",
+        "pin": "johto"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "136.17159",
+          "34.96998"
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Mahogany Town",
+        "pin": "johto"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "136.0137",
+          "35.2202"
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Lake of Rage",
+        "pin": "johto"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "136.75635",
+          "35.40976"
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Blackthorn City",
+        "pin": "johto"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "137.6193",
+          "36.5735"
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Sinjoh Ruins",
+        "pin": "sinnoh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "129.72208",
+          "33.17215"
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Littleroot Town",
+        "pin": "hoenn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "130.296",
+          "33.2637"
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Oldale Town",
+        "pin": "hoenn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "130.3898",
+          "33.389"
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Trackless Forest",
+        "pin": "hoenn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "129.9672",
+          "33.4464"
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Petalburg City",
+        "pin": "hoenn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "130.872",
+          "33.8889"
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Rustboro City",
+        "pin": "hoenn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "129.2891",
+          "34.2035"
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Dewford Town",
+        "pin": "hoenn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "129.8688",
+          "32.7537"
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Slateport City",
+        "pin": "hoenn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "130.72659",
+          "32.79497"
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Mauville City",
+        "pin": "hoenn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "130.8097",
+          "32.9814"
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Verdanturf City",
+        "pin": "hoenn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "131.08556",
+          "32.88481"
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Mt Chimney",
+        "pin": "hoenn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "131.3929",
+          "32.9705"
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Lavaridge Town",
+        "pin": "hoenn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "131.6041",
+          "33.2334"
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Fallarbor Town",
+        "pin": "hoenn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "131.6272",
+          "32.4255"
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Fortree City",
+        "pin": "hoenn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "130.65782",
+          "31.58048"
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Mt Pyre",
+        "pin": "hoenn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "130.8562",
+          "31.3788"
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Lilycove City",
+        "pin": "hoenn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "130.9565",
+          "30.5338"
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Mossdeep City",
+        "pin": "hoenn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "130.5198",
+          "30.3406"
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Sootopolis City",
+        "pin": "hoenn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "127.6778",
+          "26.2118"
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Ever Grande City",
+        "pin": "hoenn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "125.28892",
+          "25.00907"
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Mirage Island",
+        "pin": "hoenn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "129.78424",
+          "31.75328"
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Pacifidlog Town",
+        "pin": "hoenn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "141.0251",
+          "42.3488"
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Twinleaf Town",
+        "pin": "sinnoh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "140.8522",
+          "42.6018"
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Lake Verity",
+        "pin": "sinnoh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "141.5960",
+          "42.6392"
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Sandgem Town",
+        "pin": "sinnoh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "141.3511",
+          "43.0669"
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Jubilife City",
+        "pin": "sinnoh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "141.97451",
+          "43.05637"
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Oreburgh City",
+        "pin": "sinnoh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "141.51439",
+          "43.22225"
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Floaroma Town",
+        "pin": "sinnoh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "141.6533",
+          "44.3062"
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Valley Windworks",
+        "pin": "sinnoh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "142.3581",
+          "43.7630"
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Eterna City",
+        "pin": "sinnoh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "142.85411",
+          "43.66350"
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Mount Coronet",
+        "pin": "sinnoh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "143.1649",
+          "42.9271"
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Hearthome City",
+        "pin": "sinnoh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "143.5500",
+          "43.2400"
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Solaceon Town",
+        "pin": "sinnoh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "144.2712",
+          "44.0159"
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Veilstone City",
+        "pin": "sinnoh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "143.5688",
+          "44.1497"
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Celestic Town",
+        "pin": "sinnoh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "144.3013",
+          "43.6290"
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Lake Valor",
+        "pin": "sinnoh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "144.3817",
+          "42.9908"
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Pastoria City",
+        "pin": "sinnoh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "144.4469",
+          "43.0999"
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Great Marsh",
+        "pin": "sinnoh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "141.0039",
+          "43.1873"
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Canalave City",
+        "pin": "sinnoh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "141.6763",
+          "45.4145"
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Snowpoint City",
+        "pin": "sinnoh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "142.3245",
+          "45.1345"
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Lake Acuity",
+        "pin": "sinnoh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "145.5814",
+          "43.3266"
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Sunyshore City",
+        "pin": "sinnoh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "145.73252",
+          "43.97917"
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Sinnoh Pokémon League",
+        "pin": "sinnoh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "142.84030",
+          "47.00539"
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Stark Mountain",
+        "pin": "sinnoh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "143.3672",
+          "46.3646"
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Resort Area",
+        "pin": "sinnoh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-74.0009",
+          "40.5768"
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Nuvema Town",
+        "pin": "unova"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-73.93495",
+          "40.60570"
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Accumula Town",
+        "pin": "unova"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-73.90008",
+          "40.64354"
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Striaton City",
+        "pin": "unova"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-73.98763",
+          "40.68568"
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Nacrene City",
+        "pin": "unova"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-73.99060",
+          "40.69791"
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Pinwheel Forest",
+        "pin": "unova"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-74.01172",
+          "40.70405"
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Castelia City",
+        "pin": "unova"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-73.98628",
+          "40.75681"
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Nimbasa City",
+        "pin": "unova"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-74.0576",
+          "40.7384"
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Driftveil City",
+        "pin": "unova"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-74.0589",
+          "40.9720"
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Mistralton City",
+        "pin": "unova"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-74.0070",
+          "40.8335"
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Icirrus City",
+        "pin": "unova"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-73.9520",
+          "40.8109"
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Opelucid City",
+        "pin": "unova"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-73.69996",
+          "40.86373"
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Unova Pokémon League",
+        "pin": "unova"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-73.82070",
+          "40.76512"
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Lacunosa Town",
+        "pin": "unova"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-73.80600",
+          "40.70160"
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Undella Town",
+        "pin": "unova"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-73.95232",
+          "40.74334"
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Black City",
+        "pin": "unova"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-73.94443",
+          "40.75492"
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "White Forest",
+        "pin": "unova"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-74.48085",
+          "40.79700"
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Anville Town",
+        "pin": "unova"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-74.2131",
+          "40.6666"
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Aspertia City",
+        "pin": "unova"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-74.0430",
+          "40.7170"
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Virbank City",
+        "pin": "unova"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-73.84488",
+          "40.71981"
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Lentimas Town",
+        "pin": "unova"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-73.1434",
+          "40.6476"
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Humilau City",
+        "pin": "unova"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.33192,
+          46.56678
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Vaniville Town",
+        "pin": "kalos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.15516,
+          46.99032
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Aquacorde Town",
+        "pin": "kalos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.70395,
+          48.40129
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Santalune City",
+        "pin": "kalos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.29448,
+          48.85825
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Lumiose City",
+        "pin": "kalos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.327634,
+          47.585514
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Camphrier Town",
+        "pin": "kalos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.12046,
+          48.80477
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Parfum Palace",
+        "pin": "kalos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.15922,
+          46.15721
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Ambrette Town",
+        "pin": "kalos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.22377,
+          47.27227
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Cyllage City",
+        "pin": "kalos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.07886,
+          47.58337
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Geosenge Town",
+        "pin": "kalos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.03043,
+          48.65137
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Shalour City",
+        "pin": "kalos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.107809,
+          49.492821
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Coumarine City",
+        "pin": "kalos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.273499,
+          49.899168
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Laverre City",
+        "pin": "kalos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.146623,
+          49.158846
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Dendemille Town",
+        "pin": "kalos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.75099,
+          48.58182
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Anistar City",
+        "pin": "kalos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.678899,
+          48.120998
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Couriway Town",
+        "pin": "kalos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.030255,
+          47.23371
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Snowbelle City",
+        "pin": "kalos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.832284,
+          45.757703
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Kiloude City",
+        "pin": "kalos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0346167,
+          47.3214745
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Kalos Pokémon League",
+        "pin": "kalos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.713,
+          36.448
+        ]
+      },
+      "properties": {
+        "center": true,
+        "zoom": 7
+      }
+    }
+  ],
+  "metadata": {
+    "pins": {
+      "default": {
+        "icon": "city",
+        "markerColor": "white",
+        "iconColor": "black",
+        "prefix": "fa"
+      },
+      "kanto": {
+        "icon": "palette",
+        "markerColor": "red",
+        "iconColor": "white",
+        "prefix": "fa"
+      },
+      "johto": {
+        "icon": "star",
+        "markerColor": "orange",
+        "iconColor": "black",
+        "prefix": "fa"
+      },
+      "hoenn": {
+        "icon": "tint",
+        "markerColor": "green",
+        "iconColor": "white",
+        "prefix": "fa"
+      },
+      "sinnoh": {
+        "icon": "gem",
+        "markerColor": "white",
+        "iconColor": "black",
+        "prefix": "fa"
+      },
+      "unova": {
+        "icon": "palette",
+        "markerColor": "black",
+        "iconColor": "white",
+        "prefix": "fa"
+      },
+      "kalos": {
+        "icon": "times",
+        "markerColor": "pink",
+        "iconColor": "white",
+        "prefix": "fa"
+      }
+    }
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.195,
+          34.0117
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "1. Los Angeles",
+        "pin": "not visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1592,
+          36.1721
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "2. Las Vegas",
+        "pin": "not visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.7109,
+          35.2129
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "3. Albuquerque",
+        "pin": "not visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.9116,
+          39.7393
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "4. Denver",
+        "pin": "not visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5813,
+          36.2299
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "5. ???",
+        "pin": "not visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98482,
+          40.75127
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "X. New York City",
+        "pin": "not visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.66,
+          40.51
+        ]
+      },
+      "properties": {
+        "center": true,
+        "zoom": 4
+      }
+    }
+  ],
+  "metadata": {
+    "pins": {
+    }
+  }
+}
