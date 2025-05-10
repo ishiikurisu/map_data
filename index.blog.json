@@ -1,6 +1,6 @@
 [
   {
-    "path": "places/map_data.json",
+    "path": "places/map_data.geojson",
     "title": "Places",
     "description": "Places that I have been to",
     "creation_date": "2024-10-22T21:12:07.000Z",
@@ -8,7 +8,7 @@
     "original_date": "2024-10-22T21:12:07.000Z"
   },
   {
-    "path": "sleep_on_the_floor/map_data.json",
+    "path": "sleep_on_the_floor/map_data.geojson",
     "title": "Sleep on the floor",
     "description": "Cities visited on 'Sleep on the floor' movie",
     "creation_date": "2022-07-16T08:07:50.000Z",
@@ -16,7 +16,7 @@
     "original_date": "2022-07-16T08:07:50.000Z"
   },
   {
-    "path": "pokemon/map_data.json",
+    "path": "pokemon/map_data.geojson",
     "title": "Pokémon",
     "description": "Pokémon places in relation to the real world",
     "creation_date": "2022-07-29T16:37:43.000Z",
@@ -24,7 +24,7 @@
     "original_date": "2022-07-29T16:37:43.000Z"
   },
   {
-    "path": "eurasian_road_trip/map_data.json",
+    "path": "eurasian_road_trip/map_data.geojson",
     "title": "Eurasian Road Trip",
     "description": "Idea for a long road trip from Ireland to Japan",
     "creation_date": "2024-03-30T10:47:47.000Z",
@@ -32,7 +32,7 @@
     "original_date": "2024-03-30T10:47:47.000Z"
   },
   {
-    "path": "ireland-italy_roadtrip/map_data.json",
+    "path": "ireland-italy_roadtrip/map_data.geojson",
     "title": "Road Trip from Ireland to Italy",
     "description": "Idea for a 2+ weeks long road in Europe",
     "creation_date": "2024-12-06T15:38:00.000Z",
