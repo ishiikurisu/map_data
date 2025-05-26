@@ -1,0 +1,387 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 35.814, 139.964 ]
+    },
+    "properties" : {
+      "center" : true,
+      "zoom" : 9
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 139.56744, 35.322613 ]
+    },
+    "properties" : {
+      "center" : false,
+      "popup" : "1. Sugimoto-dera",
+      "pin" : "not visited"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 139.57231, 35.305058 ]
+    },
+    "properties" : {
+      "center" : false,
+      "popup" : "2. Ganden-ji",
+      "pin" : "not visited"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 139.55528, 35.314167 ]
+    },
+    "properties" : {
+      "center" : false,
+      "popup" : "3. An'yō-in",
+      "pin" : "not visited"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 139.53305, 35.3125 ]
+    },
+    "properties" : {
+      "center" : false,
+      "popup" : "4. Hase-dera",
+      "pin" : "not visited"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 139.16434, 35.28003 ]
+    },
+    "properties" : {
+      "center" : false,
+      "popup" : "5. Shōfuku-ji",
+      "pin" : "not visited"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 139.30383, 35.47161 ]
+    },
+    "properties" : {
+      "center" : false,
+      "popup" : "6. Hase-dera (Iiyama Kannon)",
+      "pin" : "not visited"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 139.28877, 35.35875 ]
+    },
+    "properties" : {
+      "center" : false,
+      "popup" : "7. Kōmyō-ji",
+      "pin" : "not visited"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 139.3989, 35.48489 ]
+    },
+    "properties" : {
+      "center" : false,
+      "popup" : "8. Shōkoku-ji",
+      "pin" : "not visited"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 139.22989, 36.010944 ]
+    },
+    "properties" : {
+      "center" : false,
+      "popup" : "9. Jikō-ji",
+      "pin" : "not visited"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 139.36237, 36.00139 ]
+    },
+    "properties" : {
+      "center" : false,
+      "popup" : "10. Shōbō-ji",
+      "pin" : "not visited"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 139.43828, 36.054333 ]
+    },
+    "properties" : {
+      "center" : false,
+      "popup" : "11. Anraku-ji",
+      "pin" : "not visited"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 139.71078, 35.979443 ]
+    },
+    "properties" : {
+      "center" : false,
+      "popup" : "12. Jion-ji",
+      "pin" : "not visited"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 139.79675, 35.71472 ]
+    },
+    "properties" : {
+      "center" : false,
+      "popup" : "13. Sensō-ji",
+      "pin" : "not visited"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 139.59741, 35.424168 ]
+    },
+    "properties" : {
+      "center" : false,
+      "popup" : "14. Gumyō-ji",
+      "pin" : "not visited"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 138.93263, 36.385277 ]
+    },
+    "properties" : {
+      "center" : false,
+      "popup" : "15. Chōkoku-ji",
+      "pin" : "not visited"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 138.94528, 36.479332 ]
+    },
+    "properties" : {
+      "center" : false,
+      "popup" : "16. Mizusawa-dera",
+      "pin" : "not visited"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 139.58925, 36.47553 ]
+    },
+    "properties" : {
+      "center" : false,
+      "popup" : "17. Mangan-ji",
+      "pin" : "not visited"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 139.49167, 36.73092 ]
+    },
+    "properties" : {
+      "center" : false,
+      "popup" : "18. Chūzen-ji",
+      "pin" : "not visited"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 139.82092, 36.596222 ]
+    },
+    "properties" : {
+      "center" : false,
+      "popup" : "19. Ōya-ji",
+      "pin" : "not visited"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 140.11736, 36.452778 ]
+    },
+    "properties" : {
+      "center" : false,
+      "popup" : "20. Saimyō-ji",
+      "pin" : "not visited"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 140.27373, 36.921192 ]
+    },
+    "properties" : {
+      "center" : false,
+      "popup" : "21. Nichirin-ji",
+      "pin" : "not visited"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 140.50467, 36.526028 ]
+    },
+    "properties" : {
+      "center" : false,
+      "popup" : "22. Satake-ji",
+      "pin" : "not visited"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 140.25961, 36.386307 ]
+    },
+    "properties" : {
+      "center" : false,
+      "popup" : "23. Shōfuku-ji",
+      "pin" : "not visited"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 140.12083, 36.330833 ]
+    },
+    "properties" : {
+      "center" : false,
+      "popup" : "24. Rakuhō-ji",
+      "pin" : "not visited"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 140.09941, 36.21264 ]
+    },
+    "properties" : {
+      "center" : false,
+      "popup" : "25. Ōmi-dō",
+      "pin" : "not visited"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 140.16736, 36.165195 ]
+    },
+    "properties" : {
+      "center" : false,
+      "popup" : "26. Kiyotaki-ji",
+      "pin" : "not visited"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 140.8406, 35.731945 ]
+    },
+    "properties" : {
+      "center" : false,
+      "popup" : "27. Enpuku-ji",
+      "pin" : "not visited"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 140.34195, 35.867085 ]
+    },
+    "properties" : {
+      "center" : false,
+      "popup" : "28. Ryushō-in",
+      "pin" : "not visited"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 140.1317, 35.59514 ]
+    },
+    "properties" : {
+      "center" : false,
+      "popup" : "29. Chiba-dera",
+      "pin" : "not visited"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 139.99445, 35.338806 ]
+    },
+    "properties" : {
+      "center" : false,
+      "popup" : "30. Kōzō-ji",
+      "pin" : "not visited"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 140.19891, 35.399612 ]
+    },
+    "properties" : {
+      "center" : false,
+      "popup" : "31. Kasamori-ji",
+      "pin" : "not visited"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 140.35634, 35.29014 ]
+    },
+    "properties" : {
+      "center" : false,
+      "popup" : "32. Kiyomizu-dera",
+      "pin" : "not visited"
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 139.85797, 35.025555 ]
+    },
+    "properties" : {
+      "center" : false,
+      "popup" : "33. Nago-dera",
+      "pin" : "not visited"
+    }
+  } ],
+  "metadata" : {
+    "pins" : {
+      "not visited" : {
+        "icon" : "calendar",
+        "markerColor" : "red",
+        "iconColor" : "white",
+        "prefix" : "fa"
+      }
+    }
+  }
+}
