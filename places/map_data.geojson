@@ -1101,6 +1101,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          126.528613,
+          33.504348
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "제주도, 한국",
+        "pin": "not visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           0,
           0
         ]
