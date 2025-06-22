@@ -1776,6 +1776,231 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -157.85876,
+          21.30679
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Hau'oli City",
+        "pin": "alola"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.02328,
+          21.49969
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Iki Town",
+        "pin": "alola"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -158.05888718002998,
+          21.64156080951727
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Ruins of Conflict",
+        "pin": "alola"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.47822,
+          20.88167
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Heahea City",
+        "pin": "alola"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.310304,
+          20.853954
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Paniola Town",
+        "pin": "alola"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.679475,
+          20.871744
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Konikoni City",
+        "pin": "alola"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -156.491818,
+          20.904577
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Ruins of Life",
+        "pin": "alola"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.07518,
+          19.71605
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Malie City",
+        "pin": "alola"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.75648,
+          19.11881
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Tapu Village",
+        "pin": "alola"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.832229,
+          20.237808
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Po Town",
+        "pin": "alola"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.1176841,
+          19.380755
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Ruins of Abundance",
+        "pin": "alola"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.668872,
+          20.020432
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Seafolk Village",
+        "pin": "alola"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.1176841,
+          19.380755
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Ruins of Abundance",
+        "pin": "alola"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.3813233,
+          22.2111883
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Battle Tree",
+        "pin": "alola"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -159.452983,
+          21.875538
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Ruins of Hope",
+        "pin": "alola"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           139.713,
           36.448
         ]
@@ -1827,6 +2052,12 @@
       "kalos": {
         "icon": "times",
         "markerColor": "pink",
+        "iconColor": "white",
+        "prefix": "fa"
+      },
+      "alola": {
+        "icon": "umbrella-beach",
+        "markerColor": "blue",
         "iconColor": "white",
         "prefix": "fa"
       }
