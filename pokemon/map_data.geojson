@@ -2001,6 +2001,231 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -3.139215,
+          54.601763
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Postwick",
+        "pin": "galar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.919917,
+          54.364493
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Wedgehurst",
+        "pin": "galar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.03351,
+          54.34716
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Slumbering Weald",
+        "pin": "galar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0652,
+          54.4792
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Wild Area",
+        "pin": "galar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.22816,
+          53.47668
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Motostoke",
+        "pin": "galar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.77880,
+          51.17178
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Turffield",
+        "pin": "galar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.993345,
+          53.404145
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Hulbury",
+        "pin": "galar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.89493,
+          52.47814
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Hammerlocke",
+        "pin": "galar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.910559,
+          53.259288
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Stow-on-side",
+        "pin": "galar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.794980,
+          52.110026
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Ballonlea",
+        "pin": "galar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.356718,
+          51.377610
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Circhester",
+        "pin": "galar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.82210,
+          53.32174
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Spikemuth",
+        "pin": "galar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.124090,
+          51.500946
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Wyndon",
+        "pin": "galar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.5288,
+          54.2065
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Isle of Armor",
+        "pin": "galar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.0032,
+          56.8030
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Crown Tundra",
+        "pin": "galar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           139.713,
           36.448
         ]
@@ -2060,7 +2285,13 @@
         "markerColor": "blue",
         "iconColor": "white",
         "prefix": "fa"
-      }
+      },
+      "galar": {
+        "icon": "paw",
+        "markercolor": "red",
+        "iconcolor": "white",
+        "prefix": "fa"
+      } 
     }
   }
 }
