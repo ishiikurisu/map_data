@@ -2,35 +2,35 @@
   "path" : "places/map_data.geojson",
   "title" : "Places",
   "description" : "Places that I have been to",
-  "creation_date" : "2025-05-08T10:26:04.000Z",
-  "last_updated_date" : "2025-05-08T10:26:04.000Z",
+  "creation_date" : "2025-05-07T16:28:08.000Z",
+  "last_updated_date" : "2025-06-03T21:39:34.000Z",
   "original_date" : "2019-10-24T13:33:55.000Z"
 }, {
   "path" : "sleep_on_the_floor/map_data.geojson",
   "title" : "Sleep on the floor",
   "description" : "Cities visited on 'Sleep on the floor' movie",
-  "creation_date" : "2025-05-08T10:26:04.000Z",
+  "creation_date" : "2025-05-07T16:28:08.000Z",
   "last_updated_date" : "2025-05-08T10:26:04.000Z",
   "original_date" : "2022-07-16T08:07:50.000Z"
 }, {
   "path" : "pokemon/map_data.geojson",
   "title" : "Pokémon",
   "description" : "Pokémon places in relation to the real world",
-  "creation_date" : "2025-05-08T10:26:04.000Z",
-  "last_updated_date" : "2025-06-22T19:00:00.000Z",
+  "creation_date" : "2025-05-07T16:28:08.000Z",
+  "last_updated_date" : "2025-10-04T11:30:19.000Z",
   "original_date" : "2022-07-29T16:37:43.000Z"
 }, {
   "path" : "eurasian_road_trip/map_data.geojson",
   "title" : "Eurasian Road Trip",
   "description" : "Idea for a long road trip from Ireland to Japan",
-  "creation_date" : "2025-05-08T10:26:04.000Z",
+  "creation_date" : "2025-05-07T16:28:08.000Z",
   "last_updated_date" : "2025-05-08T10:26:04.000Z",
   "original_date" : "2024-03-30T10:47:47.000Z"
 }, {
   "path" : "ireland-italy_roadtrip/map_data.geojson",
   "title" : "Road Trip from Ireland to Italy",
   "description" : "Idea for a 2+ weeks long road in Europe",
-  "creation_date" : "2025-05-08T10:26:04.000Z",
+  "creation_date" : "2025-05-07T16:28:08.000Z",
   "last_updated_date" : "2025-05-08T10:26:04.000Z",
   "original_date" : "2024-12-06T15:38:00.000Z"
 }, {
@@ -38,6 +38,5 @@
   "title" : "坂東三十三箇所",
   "description" : "Kannon pilgrimage around Kantô",
   "creation_date" : "2025-05-26T14:42:02.000Z",
-  "last_updated_date" : "2025-05-26T14:42:02.000Z"
+  "last_updated_date" : "2025-06-01T23:20:44.000Z"
 } ]
-
