@@ -2226,6 +2226,216 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -5.608960,
+          36.005120
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Cabo Poco",
+        "pin": "paldea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.764328,
+          39.387731
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Los Platos",
+        "pin": "paldea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.69141,
+          40.40693
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Mesagoza",
+        "pin": "paldea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.13052,
+          37.99228
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Artazon",
+        "pin": "paldea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.37703,
+          39.46715
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Levincia",
+        "pin": "paldea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.13673,
+          40.06726
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Zapapico",
+        "pin": "paldea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.013977,
+          42.326812
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Montenevera",
+        "pin": "paldea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.72670,
+          41.64183
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Medali",
+        "pin": "paldea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.00296,
+          37.39070
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Alfornada",
+        "pin": "paldea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.072540,
+          39.598550
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Porto Marinada",
+        "pin": "paldea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.29386,
+          36.93824
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Cascarrafa",
+        "pin": "paldea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.97096,
+          37.71731
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Cortondo",
+        "pin": "paldea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0632,
+          42.5677
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Area Zero",
+        "pin": "paldea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.12943,
+          39.70179
+        ]
+      },
+      "properties": {
+        "center": false,
+        "popup": "Kitakami Village",
+        "pin": "paldea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           139.713,
           36.448
         ]
@@ -2288,8 +2498,14 @@
       },
       "galar": {
         "icon": "paw",
-        "markercolor": "red",
-        "iconcolor": "white",
+        "markerColor": "red",
+        "iconColor": "white",
+        "prefix": "fa"
+      },
+      "paldea": {
+        "icon": "apple",
+        "markerColor": "orange",
+        "iconColor": "white",
         "prefix": "fa"
       } 
     }
