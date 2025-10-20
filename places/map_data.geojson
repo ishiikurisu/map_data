@@ -1115,6 +1115,36 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
+	"coordinates": [
+	  -8.629128,
+	  41.157918
+	]
+      },
+      "properties": {
+        "center": false,
+	"popup": "Porto, Portugal (2025-10-12)",
+	"pin": "visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+	"coordinates": [
+	  4.356760,
+	  50.839377
+	]
+      },
+      "properties": {
+        "center": false,
+	"popup": "Brussels, Belgium (2025-10-18)",
+	"pin": "visited"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [
           0,
           0
